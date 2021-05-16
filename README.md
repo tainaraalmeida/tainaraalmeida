@@ -3,11 +3,11 @@
 ![tainaraalmeida GitHub Stats](https://github-readme-stats.vercel.app/api?username=tainaraalmeida&show_icons=true&theme=radical)
 
 <a target="_blank" href="https://www.linkedin.com/in/tainara-campos/">
-<img align="left" alt="Linkedin" width="50px" height="50px" src="https://logospng.org/download/linkedin/logo-linkedin-1536.png"/>
+<img align="left" alt="Linkedin" width="100px" height="100px" src="https://logospng.org/download/linkedin/logo-linkedin-1536.png"/>
 </a>
 
 <a target="_blank" href="https://www.instagram.com/tainara_campos/">
-  <img align="left" alt="Instagram" width="50px" height="50px" src="https://www.dicasdeconsorcio.com.br/wp-content/uploads/2019/08/Instagram.png" />
+  <img align="left" alt="Instagram" width="100px" height="100px" src="https://www.dicasdeconsorcio.com.br/wp-content/uploads/2019/08/Instagram.png" />
 </a>
 
 
