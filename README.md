@@ -5,7 +5,8 @@
 </a>
 
 <a target="_blank" href="https://www.instagram.com/tainara_campos/">
-  <img align="left" alt="Instagram" width="22px" src="https://www.flaticon.com/free-icon/instagram_1409946?term=instagram&page=1&position=9&page=1&position=9&related_id=1409946&origin=style" />
+  <img align="left" alt="Instagram" width="22px" src="![image](https://user-images.githubusercontent.com/52765257/118409131-5d654b80-b65f-11eb-8c17-7768610199a2.png)
+" />
 </a>
 
 <a target="_blank" href="mailto:tainara.campos@hotmail.com">
