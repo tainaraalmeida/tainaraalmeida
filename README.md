@@ -7,7 +7,7 @@
 </a>
 
 <a target="_blank" href="https://www.instagram.com/tainara_campos/">
-  <img align="left" alt="Instagram" width="100px" height="100px" src="https://www.dicasdeconsorcio.com.br/wp-content/uploads/2019/08/Instagram.png" />
+  <img align="left" alt="Instagram" width="100px" height="95px" src="https://www.dicasdeconsorcio.com.br/wp-content/uploads/2019/08/Instagram.png" />
 </a>
 
 
