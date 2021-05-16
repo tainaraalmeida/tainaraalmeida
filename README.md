@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a target="_blank" href="https://www.linkedin.com/in/tainara-campos/">
-  <img align="left" alt="LinkdeIN" width="22px" src="" />
+  <img align="left" alt="LinkdeIN" width="22px" src="https://img1.gratispng.com/20180805/iwx/kisspng-computer-icons-linkedin-contact-page-youtube-websi-social-media-management-services-by-360-psg-5b66d330edeb86.9429197615334653929745.jpg" />
 </a>
 
 <a target="_blank" href="https://www.instagram.com/tainara_campos/">
@@ -9,7 +9,7 @@
 </a>
 
 <a target="_blank" href="mailto:tainara.campos@hotmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.icon-icons.com/icons2/70/PNG/512/outlook_14099.png"/>
+  <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/color/452/microsoft-outlook-2019--v2.png"/>
 </a>
 <br><br>
 
