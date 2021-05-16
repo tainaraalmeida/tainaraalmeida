@@ -7,12 +7,10 @@
 </a>
 
 <a target="_blank" href="https://www.instagram.com/tainara_campos/">
-  <img align="left" alt="Instagram" width="50px" height="50px" src="https://logospng.org/download/instagram/logo-instagram-1024.png" />
+  <img align="left" alt="Instagram" width="50px" height="50px" src="https://www.dicasdeconsorcio.com.br/wp-content/uploads/2019/08/Instagram.png" />
 </a>
 
-<a target="_blank" href="mailto:tainara.campos@hotmail.com">
-  <img align="left" alt="outlook" width="50px" height="50px" src="https://w7.pngwing.com/pngs/995/259/png-transparent-microsoft-outlook-logo-outlook-com-microsoft-outlook-email-microsoft-office-365-outlook-miscellaneous-blue-text.png"/>
-</a>
+
 
 <!--
 **tainaraalmeida/tainaraalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
