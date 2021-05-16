@@ -5,7 +5,7 @@
 </a>
 
 <a target="_blank" href="https://www.instagram.com/tainara_campos/">
-  <img align="left" alt="Instagram" width="22px" src="https://i2.wp.com/www.multarte.com.br/wp-content/uploads/2019/03/logo-instagram-png-fundo-transparente.png?fit=696%2C696&ssl=1" />
+  <img align="left" alt="Instagram" width="22px" src="https://lh3.googleusercontent.com/proxy/LnnjZel3Dp_j5iR2Dhk9goxG5yxwv_JcMRmEj_5NbLz9rKQdKG8_OSWvoaxxxpcBsIAfja039TfOovqU2X0COLYE9amOOatnWREyUmNSy3SQD1qoGqDfHnMxPSbF6cM5yTALbJPHtGmOE66dh_KG5JgW0AmxeRGQt53IcEZxYB6lZA" />
 </a>
 
 <a target="_blank" href="mailto:tainara.campos@hotmail.com">
