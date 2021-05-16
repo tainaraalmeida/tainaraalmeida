@@ -5,8 +5,7 @@
 </a>
 
 <a target="_blank" href="https://www.instagram.com/tainara_campos/">
-  <img align="left" alt="Instagram" width="22px" src="![image](https://user-images.githubusercontent.com/52765257/118409131-5d654b80-b65f-11eb-8c17-7768610199a2.png)
-" />
+  <img align="left" alt="Instagram" width="22px" src="https://imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon-1.png" />
 </a>
 
 <a target="_blank" href="mailto:tainara.campos@hotmail.com">
