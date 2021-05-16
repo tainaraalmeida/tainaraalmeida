@@ -5,7 +5,7 @@
 </a>
 
 <a target="_blank" href="https://www.instagram.com/tainara_campos/">
-  <img align="left" alt="Instagram" width="22px" src="https://imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon-1.png" />
+  <img align="left" alt="Instagram" width="22px" src="https://i2.wp.com/www.multarte.com.br/wp-content/uploads/2019/03/logo-instagram-png-fundo-transparente.png?fit=696%2C696&ssl=1" />
 </a>
 
 <a target="_blank" href="mailto:tainara.campos@hotmail.com">
