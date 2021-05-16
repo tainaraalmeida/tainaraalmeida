@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![tainaraalmeida GitHub Stats](https://github-readme-stats.vercel.app/api?username=tainaraalmeida&show_icons=true&theme=tokyonight)
+![tainaraalmeida GitHub Stats](https://github-readme-stats.vercel.app/api?username=tainaraalmeida&show_icons=true&theme=radical)
 <!--
 **tainaraalmeida/tainaraalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
