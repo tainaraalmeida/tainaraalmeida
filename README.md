@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a target="_blank" href="https://www.linkedin.com/in/tainara-campos/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Yi_ZAEEnYHrhbU8kaT4cns-nYsHE9H6avA&usqp=CAU" />
+  <img align="left" alt="LinkdeIN" width="22px" src="https://logospng.org/download/linkedin/logo-linkedin-1536.png/>
 </a>
 
 <a target="_blank" href="https://www.instagram.com/tainara_campos/">
