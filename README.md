@@ -1,4 +1,4 @@
-### Olá, meu nome é Tainara, futura Dev Front-End! 😄
+### Olá, meu nome é Tainara, Desenvolvedora Front-End Jr! 😄
 
 ![tainaraalmeida GitHub Stats](https://github-readme-stats.vercel.app/api?username=tainaraalmeida&show_icons=true&theme=radical)<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tainaraalmeida&layout=compact&theme=radical)](https://github.com/tainaraalmeida/github-readme-stats)
