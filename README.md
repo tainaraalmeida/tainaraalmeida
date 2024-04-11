@@ -1,6 +1,5 @@
 # 💫 About Me:
-👩‍🎓 Possuo tecnólogo em Análise e Desenvolvimento de Sistema<br>🔭 Atualmente trabalho para a Atos como Team Leader da equipe de Field Services na Stellantis<br>🤝 Estou buscando uma oportunidade para trabalhar na área de desenvolvimento<br>🌱 No momento estou aprendendo a liguagem de programação Magik utilizando o Smallworld.<br>
-
+👩‍🎓 Possuo tecnólogo em Análise e Desenvolvimento de Sistema<br>🔭 Atualmente trabalho para a Atos como Team Leader da equipe de Field Services na Stellantis<br>🤝 Estou buscando uma oportunidade para trabalhar na área de desenvolvimento<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tainara-campos/) 
